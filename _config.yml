@@ -22,10 +22,10 @@ title: sugarspot
 email: re@is.uo
 description: >- # this means to ignore newlines until "baseurl:"
   Enjoy simple recipes
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/sugarspot" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sugarspot
-github_username: sugarspot
+twitter_username:
+github_username:
 
 # Build settings
 theme: minima
